@@ -1,1 +1,18 @@
-{"Name": "Vicky Donor", "Director": ["Shoojit Sircar"], "Country": "India", "Language": ["Hindi"], "Runtime": "126 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BYWNlODE1ZTEtOTQ5MS00N2QwLTllNjItZDQ2Y2UzMmU5YmI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR10,0,182,268_AL__QL50.jpg", "Bio": "A man is brought in by an infertility doctor to supply him with his sperm, where he becomes the biggest sperm donor for his clinic.", "Genres": [" Comedy", " Romance"]}
+{
+    "Bio": "A man is brought in by an infertility doctor to supply him with his sperm, where he becomes the biggest sperm donor for his clinic.",
+    "Country": "India",
+    "Director": [
+        "Shoojit Sircar"
+    ],
+    "Genres": [
+        " Comedy",
+        " Romance"
+    ],
+    "Language": [
+        "Punjabi",
+        "Hindi"
+    ],
+    "Name": "Vicky Donor",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BYWNlODE1ZTEtOTQ5MS00N2QwLTllNjItZDQ2Y2UzMmU5YmI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR10,0,182,268_AL__QL50.jpg",
+    "Runtime": "126 min"
+}

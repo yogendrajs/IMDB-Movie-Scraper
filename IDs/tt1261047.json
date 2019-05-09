@@ -1,1 +1,18 @@
-{"Name": "Gulaal", "Director": ["Anurag Kashyap"], "Country": "India", "Language": ["Hindi"], "Runtime": "140 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BYTMxYjEwYjctMjg4Ni00N2UyLThkNDEtNTY4ODExNmIzYjE5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg", "Bio": "A law student witnesses deception, homicide, and crime after being elected as General Secretary of his college.", "Genres": [" Crime", " Drama", " Thriller"]}
+{
+    "Bio": "A law student witnesses deception, homicide, and crime after being elected as General Secretary of his college.",
+    "Country": "India",
+    "Director": [
+        "Anurag Kashyap"
+    ],
+    "Genres": [
+        " Crime",
+        " Drama",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Gulaal",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BYTMxYjEwYjctMjg4Ni00N2UyLThkNDEtNTY4ODExNmIzYjE5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+    "Runtime": "140 min"
+}

@@ -1,1 +1,18 @@
-{"Name": "Sarfarosh", "Director": ["John Mathew Matthan"], "Country": "India", "Language": ["Hindi"], "Runtime": "174 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BNjNhYjMzOGQtZmEyNC00ZDg4LWFhOGItOThhYzRhYzAzMjlmXkEyXkFqcGdeQXVyNjc5Mjg4Nzc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg", "Bio": "After his brother is killed and father severly injured by terrorists, a young med student quits his studies to join the Indian Police Service to wipe out the terrorists.", "Genres": [" Action", " Adventure", " Drama"]}
+{
+    "Bio": "After his brother is killed and father severly injured by terrorists, a young med student quits his studies to join the Indian Police Service to wipe out the terrorists.",
+    "Country": "India",
+    "Director": [
+        "John Mathew Matthan"
+    ],
+    "Genres": [
+        " Action",
+        " Adventure",
+        " Drama"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Sarfarosh",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BZTljOTU3MjQtMjVjYS00NWM5LTljZjQtMjhiM2JmMDYxZjZhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR5,0,182,268_AL__QL50.jpg",
+    "Runtime": "174 min"
+}

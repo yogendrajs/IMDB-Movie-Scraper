@@ -1,1 +1,19 @@
-{"Name": "Neerja", "Director": ["Ram Madhvani"], "Country": "India", "Language": ["Hindi", "English"], "Runtime": "122 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BZDhjM2E0OWMtOTA0Yy00NTNhLWEwNTEtZjhkNjNmNTdiZDA2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg", "Bio": "Neerja is the story of the courageous Neerja Bhanot, who sacrificed her life while protecting the lives of 359 passengers on the Pan Am flight 73 in 1986. The flight was hijacked by a terrorist organization.", "Genres": [" Biography", " Drama", " Thriller"]}
+{
+    "Bio": "Neerja is the story of the courageous Neerja Bhanot, who sacrificed her life while protecting the lives of 359 passengers on the Pan Am flight 73 in 1986. The flight was hijacked by a terrorist organization.",
+    "Country": "India",
+    "Director": [
+        "Ram Madhvani"
+    ],
+    "Genres": [
+        " Biography",
+        " Drama",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi",
+        "English"
+    ],
+    "Name": "Neerja",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BZDhjM2E0OWMtOTA0Yy00NTNhLWEwNTEtZjhkNjNmNTdiZDA2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+    "Runtime": "122 min"
+}

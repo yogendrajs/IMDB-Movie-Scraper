@@ -1,1 +1,20 @@
-{"Name": "Ulidavaru Kandanthe", "Director": ["Rakshit Shetty"], "Country": "India", "Language": ["Kannada", "Tulu"], "Runtime": "154 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTc3ODUxODg3MV5BMl5BanBnXkFtZTgwMDc0MDY4MTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg", "Bio": "A journalist sets out to uncover the truth behind an incident, through the perspectives of different people, unraveling how they and their lives are intertwined with it.", "Genres": [" Comedy", " Crime", " Drama", " Thriller"]}
+{
+    "Bio": "A journalist sets out to uncover the truth behind an incident, through the perspectives of different people, unraveling how they and their lives are intertwined with it.",
+    "Country": "India",
+    "Director": [
+        "Rakshit Shetty"
+    ],
+    "Genres": [
+        " Comedy",
+        " Crime",
+        " Drama",
+        " Thriller"
+    ],
+    "Language": [
+        "Kannada",
+        "Tulu"
+    ],
+    "Name": "Ulidavaru Kandanthe",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTc3ODUxODg3MV5BMl5BanBnXkFtZTgwMDc0MDY4MTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "Runtime": "154 min"
+}

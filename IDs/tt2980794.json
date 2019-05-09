@@ -1,1 +1,19 @@
-{"Name": "Highway", "Director": ["Imtiaz Ali"], "Country": "India", "Language": ["Hindi", "English"], "Runtime": "133 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMjE5NjkyNTczM15BMl5BanBnXkFtZTgwNDg4MzE5MDE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg", "Bio": "Right before her wedding, a young woman finds herself abducted and held for ransom. As the initial days pass, she begins to develop a strange bond with her kidnapper.", "Genres": [" Crime", " Drama", " Romance"]}
+{
+    "Bio": "Right before her wedding, a young woman finds herself abducted and held for ransom. As the initial days pass, she begins to develop a strange bond with her kidnapper.",
+    "Country": "India",
+    "Director": [
+        "Imtiaz Ali"
+    ],
+    "Genres": [
+        " Crime",
+        " Drama",
+        " Romance"
+    ],
+    "Language": [
+        "Hindi",
+        "English"
+    ],
+    "Name": "Highway",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMjE5NjkyNTczM15BMl5BanBnXkFtZTgwNDg4MzE5MDE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+    "Runtime": "133 min"
+}

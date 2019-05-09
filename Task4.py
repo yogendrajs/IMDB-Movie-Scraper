@@ -1,3 +1,5 @@
+## In this task, by giving the movie_url, you can have access to the directors, country, languages, runtime of a particular movie.
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -76,5 +78,5 @@ def scrape_movie_details(user):
     return (main_dic)
 
 #calling the input url
-url = input("enter the url: ")
+url = input("enter the movie url: ")
 print (scrape_movie_details(url))

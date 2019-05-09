@@ -1,1 +1,22 @@
-{"Name": "The Legend of Bhagat Singh", "Director": ["Rajkumar Santoshi"], "Country": "India", "Language": ["Hindi", "English", "Bengali", "Punjabi"], "Runtime": "155 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTc2NGRhMWMtZDdkOS00ZjcxLWI2OTAtOTI3ZWU0YWM3MGM5XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR4,0,182,268_AL__QL50.jpg", "Bio": "The story of a young revolutionary who raised an armed resistance against the British rule in India.", "Genres": [" Action", " Biography", " Drama", " History"]}
+{
+    "Bio": "The story of a young revolutionary who raised an armed resistance against the British rule in India.",
+    "Country": "India",
+    "Director": [
+        "Rajkumar Santoshi"
+    ],
+    "Genres": [
+        " Action",
+        " Biography",
+        " Drama",
+        " History"
+    ],
+    "Language": [
+        "Hindi",
+        "English",
+        "Bengali",
+        "Punjabi"
+    ],
+    "Name": "The Legend of Bhagat Singh",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BOWJlMmY0OTAtZTc2ZC00NjU2LWExZjAtZDQyNTkwMGZmNDVhXkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+    "Runtime": "155 min"
+}

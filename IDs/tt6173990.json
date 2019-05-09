@@ -1,1 +1,18 @@
-{"Name": "Gold", "Director": ["Reema Kagti"], "Country": "India", "Language": ["Hindi"], "Runtime": "151 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BM2QwNmIzNzEtMzlhMS00MmU1LWFjZGYtNjc5ZTg3NTE5MWY1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg", "Bio": "The journey of a man who was instrumental in making India win its first Olympic gold medal as a free nation.", "Genres": [" Drama", " History", " Sport"]}
+{
+    "Bio": "The journey of a man who was instrumental in making India win its first Olympic gold medal as a free nation.",
+    "Country": "India",
+    "Director": [
+        "Reema Kagti"
+    ],
+    "Genres": [
+        " Drama",
+        " History",
+        " Sport"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Gold",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BM2QwNmIzNzEtMzlhMS00MmU1LWFjZGYtNjc5ZTg3NTE5MWY1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "Runtime": "151 min"
+}

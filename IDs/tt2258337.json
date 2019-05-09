@@ -1,1 +1,27 @@
-{"Name": "Eega", "Director": ["S.S. Rajamouli", "J.V.V. Sathyanarayana"], "Country": "India", "Language": ["Telugu", "Tamil", "Hindi", "Malayalam", "Chinese", "Urdu", "Thai", "Japanese", "Portuguese"], "Runtime": "145 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BNzhiN2YzZDYtYjQzMy00YTVkLTk4OTItYTQ0ODllMGM5NjA1XkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg", "Bio": "A murdered man is reincarnated as a housefly and seeks to avenge his death.", "Genres": [" Action", " Comedy", " Fantasy"]}
+{
+    "Bio": "A murdered man is reincarnated as a housefly and seeks to avenge his death.",
+    "Country": "India",
+    "Director": [
+        "S.S. Rajamouli",
+        "J.V.V. Sathyanarayana"
+    ],
+    "Genres": [
+        " Action",
+        " Comedy",
+        " Fantasy"
+    ],
+    "Language": [
+        "Telugu",
+        "Tamil",
+        "Hindi",
+        "Malayalam",
+        "Chinese",
+        "Urdu",
+        "Thai",
+        "Japanese",
+        "Portuguese"
+    ],
+    "Name": "Eega",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNzhiN2YzZDYtYjQzMy00YTVkLTk4OTItYTQ0ODllMGM5NjA1XkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "Runtime": "145 min"
+}

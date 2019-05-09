@@ -1,1 +1,20 @@
-{"Name": "Sivaji", "Director": ["S. Shankar"], "Country": "India", "Language": ["Tamil", "Hindi", "English"], "Runtime": "188 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BYjNkMzQ0MzEtN2FjMy00MWZjLWE4NmMtOGM5OWVmNDMxYmI4XkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UY268_CR14,0,182,268_AL__QL50.jpg", "Bio": "A software engineer comes to India to serve the nation and invest in nation's welfare. A few corrupt officials and politicians try to stop him but he overcomes all obstacles.", "Genres": [" Action", " Drama", " Thriller"]}
+{
+    "Bio": "A software engineer comes to India to serve the nation and invest in nation's welfare. A few corrupt officials and politicians try to stop him but he overcomes all obstacles.",
+    "Country": "India",
+    "Director": [
+        "S. Shankar"
+    ],
+    "Genres": [
+        " Action",
+        " Drama",
+        " Thriller"
+    ],
+    "Language": [
+        "Tamil",
+        "Hindi",
+        "English"
+    ],
+    "Name": "Sivaji",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BZTU2NzRlNmQtN2Q1Yi00MWJkLWEwNTUtODkyODQzYTE1YTUwXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR27,0,182,268_AL__QL50.jpg",
+    "Runtime": "188 min"
+}

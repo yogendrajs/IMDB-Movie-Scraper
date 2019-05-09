@@ -1,3 +1,5 @@
+## In this task, I have categorised all the Genres and counted them all, and then stored in the **totalGenres.json** file.
+
 from Task5 import get_movie_list_details
 from Task1 import scrape_top_list
 movies_list = scrape_top_list()
@@ -20,8 +22,8 @@ def analyse_movies_genre(how_many_movies):
             if i in genre:
                 count+=1
         empty_dic[i] = count
-    with open("genre11.json", "w") as f:
-        jsndata = json.dumps(empty_dic)
+    with open("totalGenres.json", "w") as f:
+        jsndata = json.dumps(empty_dic, indent=4, sort_keys=True)
         f.write(jsndata)
 
 (analyse_movies_genre(top_ten_movie))

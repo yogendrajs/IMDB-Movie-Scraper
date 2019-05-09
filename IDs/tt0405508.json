@@ -1,1 +1,19 @@
-{"Name": "Rang De Basanti", "Director": ["Rakeysh Omprakash Mehra"], "Country": "India", "Language": ["Hindi", "Punjabi", "English"], "Runtime": "157 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BM2I3OGU1YmQtNjIyOC00OGYzLWFkOTgtOGIyMDVlNmE2M2VmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg", "Bio": "The story of six young Indians who assist an English Woman to film a documentary on the extremist freedom fighters from their past, and the events that lead them to relive the long forgotten saga of freedom.", "Genres": [" Comedy", " Drama"]}
+{
+    "Bio": "The story of six young Indians who assist an English woman to film a documentary on the freedom fighters from their past, and the events that lead them to relive the long-forgotten saga of freedom.",
+    "Country": "India",
+    "Director": [
+        "Rakeysh Omprakash Mehra"
+    ],
+    "Genres": [
+        " Comedy",
+        " Drama"
+    ],
+    "Language": [
+        "Hindi",
+        "Punjabi",
+        "English"
+    ],
+    "Name": "Rang De Basanti",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BM2I3OGU1YmQtNjIyOC00OGYzLWFkOTgtOGIyMDVlNmE2M2VmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+    "Runtime": "157 min"
+}

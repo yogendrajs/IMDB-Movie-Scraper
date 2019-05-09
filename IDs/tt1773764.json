@@ -1,1 +1,19 @@
-{"Name": "Ship of Theseus", "Director": ["Anand Gandhi"], "Country": "India", "Language": ["English", "Arabic", "Swedish", "Hindi"], "Runtime": "140 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTU5Njc1NjkxMl5BMl5BanBnXkFtZTgwNTkzNTQwMDE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg", "Bio": "The film explores questions of identity, justice, beauty, meaning and death through an experimental photographer, an ailing monk and a young stockbroker.", "Genres": [" Drama"]}
+{
+    "Bio": "The film explores questions of identity, justice, beauty, meaning and death through an experimental photographer, an ailing monk and a young stockbroker.",
+    "Country": "India",
+    "Director": [
+        "Anand Gandhi"
+    ],
+    "Genres": [
+        " Drama"
+    ],
+    "Language": [
+        "English",
+        "Arabic",
+        "Swedish",
+        "Hindi"
+    ],
+    "Name": "Ship of Theseus",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTU5Njc1NjkxMl5BMl5BanBnXkFtZTgwNTkzNTQwMDE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+    "Runtime": "140 min"
+}

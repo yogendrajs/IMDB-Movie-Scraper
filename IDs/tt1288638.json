@@ -1,1 +1,19 @@
-{"Name": "Dasvidaniya", "Director": ["Shashant Shah"], "Country": "India", "Language": ["Hindi", "English", "Russian"], "Runtime": "113 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BZWU3ZTU2OGUtZGJlYS00Yjc5LTk0ZTctOGZkZGZmODkxYmVmXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR3,0,182,268_AL__QL50.jpg", "Bio": "A man who loves to make \"to-do lists\" makes one last bucket list when he realizes he is about to die.", "Genres": [" Comedy", " Drama"]}
+{
+    "Bio": "A man who loves to make \"to-do lists\" makes one last bucket list when he realizes he is about to die.",
+    "Country": "India",
+    "Director": [
+        "Shashant Shah"
+    ],
+    "Genres": [
+        " Comedy",
+        " Drama"
+    ],
+    "Language": [
+        "Hindi",
+        "English",
+        "Russian"
+    ],
+    "Name": "Dasvidaniya",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BZWU3ZTU2OGUtZGJlYS00Yjc5LTk0ZTctOGZkZGZmODkxYmVmXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+    "Runtime": "113 min"
+}

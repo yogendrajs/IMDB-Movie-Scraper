@@ -1,1 +1,18 @@
-{"Name": "Gangaajal", "Director": ["Prakash Jha"], "Country": "India", "Language": ["Hindi"], "Runtime": "157 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BYjRjOWViZTgtYjA4Ny00MWJiLTkxYzktMzdlOGRmMWYwOTdjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR8,0,182,268_AL__QL50.jpg", "Bio": "An IPS officer motivates and leads a dysfunctional, corrupt police force of Tezpur to fight against the corrupt politician.", "Genres": [" Action", " Crime", " Drama"]}
+{
+    "Bio": "An IPS officer motivates and leads a dysfunctional, corrupt police force of Tezpur to fight against the corrupt politician.",
+    "Country": "India",
+    "Director": [
+        "Prakash Jha"
+    ],
+    "Genres": [
+        " Action",
+        " Crime",
+        " Drama"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Gangaajal",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BYjRjOWViZTgtYjA4Ny00MWJiLTkxYzktMzdlOGRmMWYwOTdjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR8,0,182,268_AL__QL50.jpg",
+    "Runtime": "157 min"
+}

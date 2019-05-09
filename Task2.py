@@ -1,4 +1,7 @@
-import requests
+## In this task, I have arranged all the movies, according to their years of release.
+
+
+import requests, pprint
 from bs4 import BeautifulSoup
 url = "https://www.imdb.com/india/top-rated-indian-movies/?ref_=nv_mv_250_in"
 page = requests.get(url)
@@ -84,5 +87,5 @@ def scrape_top_list():
                 # print (empty_dic)
                 empty_list.append(empty_dic)
         main_dic[i] = empty_list
-    print (main_dic)
+    pprint.pprint (main_dic)
 scrape_top_list()

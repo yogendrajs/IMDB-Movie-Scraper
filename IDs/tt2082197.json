@@ -1,1 +1,19 @@
-{"Name": "Barfi!", "Director": ["Anurag Basu"], "Country": "India", "Language": ["Hindi"], "Runtime": "151 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg", "Bio": "Three young people learn that love can neither be defined nor contained by society's definition of normal and abnormal.", "Genres": [" Comedy", " Drama", " Romance"]}
+{
+    "Bio": "Three young people learn that love can neither be defined nor contained by society's definition of normal and abnormal.",
+    "Country": "India",
+    "Director": [
+        "Anurag Basu",
+        "Sunil Subramani"
+    ],
+    "Genres": [
+        " Comedy",
+        " Drama",
+        " Romance"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Barfi!",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+    "Runtime": "151 min"
+}

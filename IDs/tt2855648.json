@@ -1,1 +1,18 @@
-{"Name": "Madras Cafe", "Director": ["Shoojit Sircar"], "Country": "India", "Language": ["Hindi"], "Runtime": "130 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTg1MzU5ODM4Nl5BMl5BanBnXkFtZTcwOTQ3MTM5OQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg", "Bio": "An Indian intelligence agent journeys to a war-torn coastal island to break a resolute rebel group and meets a passionate journalist.", "Genres": [" Action", " Drama"]}
+{
+    "Bio": "An Indian intelligence agent journeys to a war-torn coastal island to break a resolute rebel group and meets a passionate journalist.",
+    "Country": "India",
+    "Director": [
+        "Shoojit Sircar"
+    ],
+    "Genres": [
+        " Action",
+        " Drama",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Madras Cafe",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTg1MzU5ODM4Nl5BMl5BanBnXkFtZTcwOTQ3MTM5OQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "Runtime": "130 min"
+}

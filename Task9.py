@@ -1,11 +1,9 @@
+## In this task, I am storing all the data of all the movies in the IDs folder, if it doesn't exist already.
+
 from Task1 import scrape_top_list
 from bs4 import BeautifulSoup
 from os import path
-import requests
-import time
-import os
-import random
-import json
+import requests, time, os, random, json
 
 main_list = list()
 def get_movie_list_details(movies_list):
@@ -20,7 +18,8 @@ def get_movie_list_details(movies_list):
             else:
                 string+=url[i]
         id = string + ".json" # filename to check whether it exists in our local files or not!
-        newname = os.path.join("/home/yogendra/Desktop/Scraping/IDs",id)
+        # /home/yogendra/Desktop/Scraping/IDs
+        newname = os.path.join("/home/yogi/Documents/IMDB-Movie-Scraper/IDs",id)
         exists = path.exists(newname)
         # print (newname)
         if exists:
@@ -35,11 +34,11 @@ def get_movie_list_details(movies_list):
             time_limit = random.randint(1,3)
             time.sleep(time_limit)
             with open(newname, "w") as file1:
-                toFile = json.dumps(arg)
+                toFile = json.dumps(arg, indent=4, sort_keys=True)
                 main_list.append(toFile)
                 count+=1
                 file1.write(toFile)
-    dumping = json.dumps(main_list)
+    dumping = json.dumps(main_list, indent=4, sort_keys=True)
     with open("Total_movie_list.json", "w") as q: # Total movies List of 250 movies
         q.write(dumping)
     print ("the total number of movies are ",count)

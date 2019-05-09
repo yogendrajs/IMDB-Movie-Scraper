@@ -1,1 +1,18 @@
-{"Name": "Special Chabbis", "Director": ["Neeraj Pandey"], "Country": "India", "Language": ["Hindi"], "Runtime": "144 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTQ1NDI5MjMzNF5BMl5BanBnXkFtZTcwMTc0MDQwOQ@@._V1_UY268_CR2,0,182,268_AL__QL50.jpg", "Bio": "A gang of con-men rob prominent rich businessmen and politicians by posing as C.B.I and income tax officers.", "Genres": [" Crime", " Drama", " Thriller"]}
+{
+    "Bio": "A gang of con-men rob prominent rich businessmen and politicians by posing as C.B.I and income tax officers.",
+    "Country": "India",
+    "Director": [
+        "Neeraj Pandey"
+    ],
+    "Genres": [
+        " Crime",
+        " Drama",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Special Chabbis",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTQ1NDI5MjMzNF5BMl5BanBnXkFtZTcwMTc0MDQwOQ@@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+    "Runtime": "144 min"
+}

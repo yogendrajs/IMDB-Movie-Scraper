@@ -1,6 +1,7 @@
-import requests
-import os.path
-import json
+## In this task, I am storing the data of that movie in the IDs folder, whose link you'll give (if it not exists already).
+
+
+import requests, os.path, json
 from os import path
 from bs4 import BeautifulSoup
 
@@ -66,7 +67,7 @@ def scrape_movie_details(user):
 
     return (main_dic)
 
-url = input("enter the url: ")
+url = input("Enter the url of the movie: ")
 b = (url.index('title'))
 string = ""
 for i in range(b+6, len(url)):
@@ -75,7 +76,7 @@ for i in range(b+6, len(url)):
     else:
         string+=url[i]
 id = string + ".json" # filename to check whether it exists in our local files or not!
-newname = os.path.join("/home/yogendra/Desktop/Scraping/IDs",id)
+newname = os.path.join("/home/yogi/Documents/IMDB-Movie-Scraper/IDs",id)
 exists = path.exists(newname)
 # print (newname)
 if exists:
@@ -85,5 +86,5 @@ if exists:
 else:
     arg = scrape_movie_details(url)
     with open(newname, "w") as file1:
-        toFile = json.dumps(arg)
+        toFile = json.dumps(arg, indent=4, sort_keys=True)
         file1.write(toFile)

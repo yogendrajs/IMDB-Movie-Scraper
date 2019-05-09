@@ -1,4 +1,7 @@
-import requests
+## In this task, I have scraped the details of all the 250 movies, according to their position, name, year, rating, and movie url.
+## To run this task, uncomment the `scrape_top_list()` function at the bottom.
+
+import requests, pprint
 from bs4 import BeautifulSoup
 url = "https://www.imdb.com/india/top-rated-indian-movies/?ref_=nv_mv_250_in"
 page = requests.get(url)
@@ -73,4 +76,4 @@ def scrape_top_list():
     # print (movies_links)
 
 # calling the function
-# print(scrape_top_list())
+# pprint.pprint(scrape_top_list())

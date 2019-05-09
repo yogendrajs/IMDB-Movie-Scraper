@@ -1,1 +1,19 @@
-{"Name": "Airlift", "Director": ["Raja Menon"], "Country": "India", "Language": ["Hindi", "Malayalam", "Arabic"], "Runtime": "130 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMGE1ZTkyOTMtMTdiZS00YzI2LTlmYWQtOTE5YWY0NWVlNjlmXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg", "Bio": "When Iraq invades Kuwait in August, 1990, a callous Indian businessman becomes the spokesperson for more than 170,000 stranded countrymen.", "Genres": [" Drama", " History"]}
+{
+    "Bio": "When Iraq invades Kuwait in August, 1990, a callous Indian businessman becomes the spokesperson for more than 170,000 stranded countrymen.",
+    "Country": "India",
+    "Director": [
+        "Raja Menon"
+    ],
+    "Genres": [
+        " Drama",
+        " History"
+    ],
+    "Language": [
+        "Hindi",
+        "Malayalam",
+        "Arabic"
+    ],
+    "Name": "Airlift",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMGE1ZTkyOTMtMTdiZS00YzI2LTlmYWQtOTE5YWY0NWVlNjlmXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+    "Runtime": "130 min"
+}

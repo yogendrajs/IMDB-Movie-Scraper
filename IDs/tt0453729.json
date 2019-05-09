@@ -1,1 +1,17 @@
-{"Name": "Iqbal", "Director": ["Nagesh Kukunoor"], "Country": "India", "Language": ["Hindi"], "Runtime": "132 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BNDA5NDAzNTAyM15BMl5BanBnXkFtZTgwMzE1MDA2MDE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg", "Bio": "Iqbal, the deaf and mute son of a farmer, has a passion for the game of cricket and seeks the tutelage of a washed-up, alcoholic ex-player.", "Genres": [" Drama", " Sport"]}
+{
+    "Bio": "Iqbal, the deaf and mute son of a farmer, has a passion for the game of cricket and seeks the tutelage of a washed-up, alcoholic ex-player.",
+    "Country": "India",
+    "Director": [
+        "Nagesh Kukunoor"
+    ],
+    "Genres": [
+        " Drama",
+        " Sport"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Iqbal",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMjA3NzUzMjU5MF5BMl5BanBnXkFtZTgwNzMxMDAxMzE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+    "Runtime": "132 min"
+}

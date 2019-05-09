@@ -1,1 +1,19 @@
-{"Name": "The Ghazi Attack", "Director": ["Sankalp Reddy"], "Country": "India", "Language": ["Hindi", "Telugu"], "Runtime": "116 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BNjJjODRlNTctM2IxYS00ZGQ4LTg2ZTItMTFiOTJkM2EyNmY4L2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR3,0,182,268_AL__QL50.jpg", "Bio": "A Pakistani submarine, Ghazi plans to secretly attack Vizag port. For doing so, it has to get past Indian submarine S21.", "Genres": [" Action", " History", " Thriller", " War"]}
+{
+    "Bio": "A Pakistani submarine, Ghazi plans to secretly attack Vizag port. For doing so, it has to get past Indian submarine S21.",
+    "Country": "India",
+    "Director": [
+        "Sankalp Reddy"
+    ],
+    "Genres": [
+        " Action",
+        " Thriller",
+        " War"
+    ],
+    "Language": [
+        "Hindi",
+        "Telugu"
+    ],
+    "Name": "The Ghazi Attack",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNjJjODRlNTctM2IxYS00ZGQ4LTg2ZTItMTFiOTJkM2EyNmY4L2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+    "Runtime": "116 min"
+}

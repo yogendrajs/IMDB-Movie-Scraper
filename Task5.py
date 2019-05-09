@@ -1,3 +1,6 @@
+## In this task, you can access the directors, languages, country etc. of all the 250 movies
+
+
 from Task1 import scrape_top_list
 from bs4 import BeautifulSoup
 import requests
@@ -6,12 +9,13 @@ import requests
 # a = Task1.scrape_top_list()
 # print (a)
 
-# main_list = list()
-# def get_movie_list_details(movies_list):
-#     for i in movies_list:
-#         uri = (i['url'])
-#         scrape_movie_details(uri)
-#     return (main_list)
+main_list = list()
+def get_movie_list_details(movies_list):
+    for i in movies_list:
+        uri = (i['url'])
+        # print(uri)
+        scrape_movie_details(uri)
+    return (main_list)
 
 def scrape_movie_details(user):
     a = requests.get(user)
@@ -73,7 +77,10 @@ def scrape_movie_details(user):
             value = [k.text for k in all_a]
             main_dic['Genres'] = (value)
 
-    # main_list.append(main_dic)
+    main_list.append(main_dic)
+    # return main_list ########## for every task, uncomment it, except for task13
+
+  ######################## for task13, use ############################ 
     return main_dic
 
 def get_movie_list_cast(link):

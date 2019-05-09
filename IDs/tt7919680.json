@@ -1,1 +1,17 @@
-{"Name": "Karwaan", "Director": ["Akarsh Khurana"], "Country": "India", "Language": ["Hindi"], "Runtime": "114 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BYjYxZjc1YmMtNTIyOS00OGUyLWI5MTYtOWZiNzc5Yzc4MDBhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg", "Bio": "Two friends and a chirpy teenager take a road trip from Bangalore to Kochi.", "Genres": [" Comedy", " Drama"]}
+{
+    "Bio": "Two friends and a chirpy teenager take a road trip from Bangalore to Kochi.",
+    "Country": "India",
+    "Director": [
+        "Akarsh Khurana"
+    ],
+    "Genres": [
+        " Comedy",
+        " Drama"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Karwaan",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BYjYxZjc1YmMtNTIyOS00OGUyLWI5MTYtOWZiNzc5Yzc4MDBhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+    "Runtime": "114 min"
+}

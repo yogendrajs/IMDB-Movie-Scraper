@@ -1,1 +1,19 @@
-{"Name": "Andhadhun", "Director": ["Sriram Raghavan"], "Country": "India", "Language": ["Hindi", "English"], "Runtime": "139 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY268_CR1,0,182,268_AL__QL50.jpg", "Bio": "A series of mysterious events change the life of a blind pianist who now must report a crime that was actually never witnessed by him.", "Genres": [" Comedy", " Crime", " Thriller"]}
+{
+    "Bio": "A series of mysterious events change the life of a blind pianist who now must report a crime that was actually never witnessed by him.",
+    "Country": "India",
+    "Director": [
+        "Sriram Raghavan"
+    ],
+    "Genres": [
+        " Crime",
+        " Mystery",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi",
+        "English"
+    ],
+    "Name": "Andhadhun",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+    "Runtime": "139 min"
+}

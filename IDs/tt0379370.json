@@ -1,1 +1,19 @@
-{"Name": "Maqbool", "Director": ["Vishal Bhardwaj"], "Country": "India", "Language": ["Hindi", "Urdu"], "Runtime": "132 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTE2NjYzOWUtMDgyZS00NGY3LTk5ZDctODMxNGYyNjUyODIwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR5,0,182,268_AL__QL50.jpg", "Bio": "The intrigue of the Shakespearean tragedy 'Macbeth' is transposed to the Mumbai underworld.", "Genres": [" Crime", " Drama", " Thriller"]}
+{
+    "Bio": "The intrigue of the Shakespearean tragedy 'Macbeth' is transposed to the Mumbai underworld.",
+    "Country": "India",
+    "Director": [
+        "Vishal Bhardwaj"
+    ],
+    "Genres": [
+        " Crime",
+        " Drama",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi",
+        "Urdu"
+    ],
+    "Name": "Maqbool",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTE2NjYzOWUtMDgyZS00NGY3LTk5ZDctODMxNGYyNjUyODIwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR5,0,182,268_AL__QL50.jpg",
+    "Runtime": "132 min"
+}

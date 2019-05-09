@@ -1,1 +1,20 @@
-{"Name": "Khakee", "Director": ["Rajkumar Santoshi"], "Country": "India", "Language": ["Hindi", "Urdu"], "Runtime": "174 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BN2NhOGZlNzYtYmYxMS00YTk1LTk2MDItNjI3MDVlZTRkZDYwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg", "Bio": "A team of police force escorts an alleged terrorist from Chandangarh to Mumbai. However their trip turns into a deadly survival when an ex-cop tries to stop them to reach Mumbai.", "Genres": [" Action", " Crime", " Drama", " Thriller"]}
+{
+    "Bio": "A team of police force escorts an alleged terrorist from Chandangarh to Mumbai. However their trip turns into a deadly survival when an ex-cop tries to stop them to reach Mumbai.",
+    "Country": "India",
+    "Director": [
+        "Rajkumar Santoshi"
+    ],
+    "Genres": [
+        " Action",
+        " Crime",
+        " Drama",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi",
+        "Urdu"
+    ],
+    "Name": "Khakee",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BN2NhOGZlNzYtYmYxMS00YTk1LTk2MDItNjI3MDVlZTRkZDYwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+    "Runtime": "174 min"
+}

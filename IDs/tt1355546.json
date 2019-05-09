@@ -1,1 +1,16 @@
-{"Name": "Ayan", "Director": ["Anand K.V."], "Country": "India", "Language": ["Tamil"], "Runtime": "162 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BOWZjMTEwMGEtYmMyNy00ZjkzLWFjMzQtYzcyZDYxMWM0MjA2XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR2,0,182,268_AL__QL50.jpg", "Bio": "A young man's smuggling lifestyle takes a serious turn, when a fierce rival tries to eliminate him from the business.", "Genres": [" Action"]}
+{
+    "Bio": "A young man's smuggling lifestyle takes a serious turn, when a fierce rival tries to eliminate him from the business.",
+    "Country": "India",
+    "Director": [
+        "K.V. Anand"
+    ],
+    "Genres": [
+        " Action"
+    ],
+    "Language": [
+        "Tamil"
+    ],
+    "Name": "Ayan",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BOTQ3MDg2YTEtMjJmYS00MDIxLWI2ZWEtNmRlYmQ2MjZiMjFjXkEyXkFqcGdeQXVyOTA3MTc1OTg@._V1_UY268_CR63,0,182,268_AL__QL50.jpg",
+    "Runtime": "162 min"
+}

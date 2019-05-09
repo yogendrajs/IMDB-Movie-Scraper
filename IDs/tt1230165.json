@@ -1,1 +1,17 @@
-{"Name": "Rock On!!", "Director": ["Abhishek Kapoor"], "Country": "India", "Language": ["Hindi", "English"], "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTM2NjIwODc4N15BMl5BanBnXkFtZTcwMDgwMzM4MQ@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg", "Bio": "Four friends reunite to relive their moments of glory as a rock band.", "Genres": [" Drama", " Music"]}
+{
+    "Bio": "Four friends reunite to relive their moments of glory as a rock band.",
+    "Country": "India",
+    "Director": [
+        "Abhishek Kapoor"
+    ],
+    "Genres": [
+        " Drama",
+        " Music"
+    ],
+    "Language": [
+        "Hindi",
+        "English"
+    ],
+    "Name": "Rock On!!",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTM2NjIwODc4N15BMl5BanBnXkFtZTcwMDgwMzM4MQ@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg"
+}

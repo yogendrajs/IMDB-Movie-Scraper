@@ -1,1 +1,17 @@
-{"Name": "Page 3", "Director": ["Madhur Bhandarkar"], "Country": "India", "Language": ["Hindi", "English"], "Runtime": "139 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTY1NDUxNTU5MF5BMl5BanBnXkFtZTcwOTIxMTg4Mw@@._V1_UY268_CR6,0,182,268_AL__QL50.jpg", "Bio": "A look at Mumbai's socialite party circle world through the eyes of a Page 3 journalist.", "Genres": [" Drama"]}
+{
+    "Bio": "A look at Mumbai's socialite party circle world through the eyes of a Page 3 journalist.",
+    "Country": "India",
+    "Director": [
+        "Madhur Bhandarkar"
+    ],
+    "Genres": [
+        " Drama"
+    ],
+    "Language": [
+        "Hindi",
+        "English"
+    ],
+    "Name": "Page 3",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTY1NDUxNTU5MF5BMl5BanBnXkFtZTcwOTIxMTg4Mw@@._V1_UY268_CR6,0,182,268_AL__QL50.jpg",
+    "Runtime": "139 min"
+}

@@ -1,1 +1,19 @@
-{"Name": "Darr", "Director": ["Yash Chopra"], "Country": "India", "Language": ["Hindi", "English"], "Runtime": "178 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BYTczYzgzNmUtZDBkOC00Mjg5LThmOWQtYjYzNjFjNzlhYmEyXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL__QL50.jpg", "Bio": "Darr is a girl's (Kiran) story caught between one man's (Sunil) love and another man's (Rahul) obsession.", "Genres": [" Drama", " Romance", " Thriller"]}
+{
+    "Bio": "Darr is a girl's (Kiran) story caught between one man's (Sunil) love and another man's (Rahul) obsession.",
+    "Country": "India",
+    "Director": [
+        "Yash Chopra"
+    ],
+    "Genres": [
+        " Drama",
+        " Romance",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi",
+        "English"
+    ],
+    "Name": "Darr",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BYTczYzgzNmUtZDBkOC00Mjg5LThmOWQtYjYzNjFjNzlhYmEyXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+    "Runtime": "178 min"
+}

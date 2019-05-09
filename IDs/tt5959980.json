@@ -1,1 +1,17 @@
-{"Name": "Vada Chennai", "Director": ["Vetrimaaran"], "Country": "India", "Language": ["Tamil"], "Runtime": "164 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BZjU3MWM1MDYtZGE2Mi00MTk1LWJlOWEtNmJlN2RkOTBjYWVjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR7,0,182,268_AL__QL50.jpg", "Bio": "A young carrom player in north Chennai becomes a reluctant participant in a war between two warring gangsters.", "Genres": [" Action", " Crime"]}
+{
+    "Bio": "A young carrom player in north Chennai becomes a reluctant participant in a war between two warring gangsters.",
+    "Country": "India",
+    "Director": [
+        "Vetrimaaran"
+    ],
+    "Genres": [
+        " Action",
+        " Crime"
+    ],
+    "Language": [
+        "Tamil"
+    ],
+    "Name": "Vada Chennai",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BZjU3MWM1MDYtZGE2Mi00MTk1LWJlOWEtNmJlN2RkOTBjYWVjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+    "Runtime": "164 min"
+}

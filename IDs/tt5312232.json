@@ -1,1 +1,17 @@
-{"Name": "Sairat", "Director": ["Nagraj Manjule"], "Country": "India", "Language": ["Marathi"], "Runtime": "174 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMjBjNWYyY2UtOGNjZC00MTg4LWIwYWItYmZiNDI5MGUwNWRkXkEyXkFqcGdeQXVyNjI1NjA5NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg", "Bio": "In interior Maharashtra, a fisherman's son and a local politician's daughter fall in love against the restrictions of caste hierarchy.", "Genres": [" Drama", " Romance"]}
+{
+    "Bio": "In interior Maharashtra, a fisherman's son and a local politician's daughter fall in love against the restrictions of caste hierarchy.",
+    "Country": "India",
+    "Director": [
+        "Nagraj Manjule"
+    ],
+    "Genres": [
+        " Drama",
+        " Romance"
+    ],
+    "Language": [
+        "Marathi"
+    ],
+    "Name": "Sairat",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMjBjNWYyY2UtOGNjZC00MTg4LWIwYWItYmZiNDI5MGUwNWRkXkEyXkFqcGdeQXVyNjI1NjA5NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "Runtime": "174 min"
+}

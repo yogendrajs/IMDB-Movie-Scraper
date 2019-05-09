@@ -1,1 +1,17 @@
-{"Name": "Mankatha", "Director": ["Venkat Prabhu"], "Country": "India", "Language": ["Tamil"], "Poster URL": "https://m.media-amazon.com/images/M/MV5BMjQ0MGI1ZTAtMmFiYy00NThmLWIzY2QtNjUyNjZmMjM3YmYwXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg", "Bio": "A ruthless cop has to win a game to save an amount of 500 crore from a corrupt politician and a local gang", "Genres": [" Action", " Comedy", " Crime", " Mystery", " Thriller"]}
+{
+    "Bio": "A ruthless cop has to win a game to save an amount of 500 crore from a corrupt politician and a local gang",
+    "Country": "India",
+    "Director": [
+        "Venkat Prabhu"
+    ],
+    "Genres": [
+        " Action",
+        " Crime",
+        " Thriller"
+    ],
+    "Language": [
+        "Tamil"
+    ],
+    "Name": "Mankatha",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNmRjN2E2MTUtMmVkNC00MzEzLTkzODgtZTM0NzI0ZDJkM2YyXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+}

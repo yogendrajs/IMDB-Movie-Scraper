@@ -1,1 +1,19 @@
-{"Name": "Mardaani", "Director": ["Pradeep Sarkar"], "Country": "India", "Language": ["Hindi"], "Runtime": "113 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMjI1MTA5MzM2MF5BMl5BanBnXkFtZTgwNjk2MDgwMjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg", "Bio": "A story of Shivani Shivaji Roy, Crime Branch, who sets out to confront the mastermind behind a child trafficking mafia.", "Genres": [" Action", " Crime", " Drama", " Thriller"]}
+{
+    "Bio": "A story of Shivani Shivaji Roy, Crime Branch, who sets out to confront the mastermind behind a child trafficking mafia.",
+    "Country": "India",
+    "Director": [
+        "Pradeep Sarkar"
+    ],
+    "Genres": [
+        " Action",
+        " Crime",
+        " Drama",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Mardaani",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMjI1MTA5MzM2MF5BMl5BanBnXkFtZTgwNjk2MDgwMjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "Runtime": "113 min"
+}

@@ -1,1 +1,19 @@
-{"Name": "Deewaar", "Director": ["Yash Chopra"], "Country": "India", "Language": ["Hindi"], "Runtime": "174 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTU2NTYyOTA3NV5BMl5BanBnXkFtZTcwMDMyNjEzMQ@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg", "Bio": "Vijay struggles as a dockworker. Eventually, he becomes a leading figure of the underworld, while his younger brother, Ravi, is an educated, upright policeman. This divide causes problems in their relationship.", "Genres": [" Action", " Crime", " Drama", " Thriller"]}
+{
+    "Bio": "Vijay struggles as a dockworker. Eventually, he becomes a leading figure of the underworld, while his younger brother, Ravi, is an educated, upright policeman. This divide causes problems in their relationship.",
+    "Country": "India",
+    "Director": [
+        "Yash Chopra"
+    ],
+    "Genres": [
+        " Action",
+        " Crime",
+        " Drama",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Deewaar",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTU2NTYyOTA3NV5BMl5BanBnXkFtZTcwMDMyNjEzMQ@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+    "Runtime": "174 min"
+}

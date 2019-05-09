@@ -1,1 +1,20 @@
-{"Name": "Zindagi Na Milegi Dobara", "Director": ["Zoya Akhtar"], "Country": "India", "Language": ["Hindi", "Japanese", "Spanish", "English"], "Runtime": "155 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BZGFmMjM5OWMtZTRiNC00ODhlLThlYTItYTcyZDMyYmMyYjFjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg", "Bio": "Three friends decide to turn their fantasy vacation into reality after one of their number becomes engaged.", "Genres": [" Comedy", " Drama"]}
+{
+    "Bio": "Three friends decide to turn their fantasy vacation into reality after one of their number becomes engaged.",
+    "Country": "India",
+    "Director": [
+        "Zoya Akhtar"
+    ],
+    "Genres": [
+        " Comedy",
+        " Drama"
+    ],
+    "Language": [
+        "Hindi",
+        "Japanese",
+        "Spanish",
+        "English"
+    ],
+    "Name": "Zindagi Na Milegi Dobara",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BZGFmMjM5OWMtZTRiNC00ODhlLThlYTItYTcyZDMyYmMyYjFjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+    "Runtime": "155 min"
+}

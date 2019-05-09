@@ -1,1 +1,21 @@
-{"Name": "Detective Byomkesh Bakshy!", "Director": ["Dibakar Banerjee"], "Country": "India", "Language": ["Hindi", "English", "Mandarin", "Japanese"], "Runtime": "139 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMjE2MDgyOTgzN15BMl5BanBnXkFtZTgwNzY2NTYyNTM@._V1_UY268_CR9,0,182,268_AL__QL50.jpg", "Bio": "Byomkesh, fresh out of college, agrees to investigate the disappearance of Bhuvan, a chemist. Assisted by Bhuvan's son Ajit, Byomkesh links the case to a larger conspiracy that will unsettle Calcutta.", "Genres": [" Action", " Mystery", " Thriller"]}
+{
+    "Bio": "Byomkesh, fresh out of college, agrees to investigate the disappearance of Bhuvan, a chemist. Assisted by Bhuvan's son Ajit, Byomkesh links the case to a larger conspiracy that will unsettle Calcutta.",
+    "Country": "India",
+    "Director": [
+        "Dibakar Banerjee"
+    ],
+    "Genres": [
+        " Action",
+        " Mystery",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi",
+        "English",
+        "Mandarin",
+        "Japanese"
+    ],
+    "Name": "Detective Byomkesh Bakshy!",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMjE2MDgyOTgzN15BMl5BanBnXkFtZTgwNzY2NTYyNTM@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+    "Runtime": "139 min"
+}

@@ -1,7 +1,9 @@
+## In this task, I have counted all the movies that have been released in Hindi, English and Malayalam languages.
+
 from Task5 import get_movie_list_details
 from Task1 import scrape_top_list
 movies_list = scrape_top_list()
-top_ten_movie = (movies_list[:10])
+top_ten_movie = movies_list[:250]
 
 def analyse_movies_language(how_many_movies):
     allmovies = get_movie_list_details(how_many_movies)

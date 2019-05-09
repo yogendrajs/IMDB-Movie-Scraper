@@ -1,8 +1,16 @@
-import requests
-import os
-import json
+## In this task, I have scraped all the Casts for all the 250 movies, and then, stored the whole data in the **Casts** Folder according to their ID name followed by cast.json.
+
+
+import requests, os, json, pprint
 from os import path
 from bs4 import BeautifulSoup
+from Task1 import scrape_top_list
+
+def funfirst():
+    data1 = scrape_top_list()
+    for i in data1:
+        castLink = i['url'] + 'fullcredits#cast'
+        casting(castLink)
 
 def scrape_movie_cast(url):
     link = requests.get(url)
@@ -18,6 +26,7 @@ def scrape_movie_cast(url):
         tds = tr.find_all('td', class_ = None)
         for anchor in tds:
             linkdata = anchor.a['href']
+            # print (linkdata)
             index = linkdata.index('name')
             newind = index+5
             string = ""
@@ -27,6 +36,7 @@ def scrape_movie_cast(url):
                     break
                 else:
                     string = string + linkdata[i]
+            # print (string)
             name = anchor.text.strip()
             name_dic['name'] = name
         if name_dic != {}:
@@ -44,7 +54,7 @@ def casting(user):
         else:
             strout+=user[i]
     url_link = strout + "_cast.json"
-    new_url_link = os.path.join("/home/yogendra/Desktop/Scraping/Casts", url_link)
+    new_url_link = os.path.join("/home/yogi/Documents/IMDB-Movie-Scraper/Casts", url_link)
     exists = path.exists(new_url_link)
     if exists:
         with open(new_url_link, "r+") as f:
@@ -52,11 +62,10 @@ def casting(user):
             return (loading)
     else:
         data = scrape_movie_cast(user)
-        data_json = json.dumps(data)
+        data_json = json.dumps(data, indent=4, sort_keys=True)
         with open(new_url_link, "w") as f:
             f.write(data_json)
         return data
 
 # for Task12 only
-# user = input("Enter your cast url: ")
-# print (casting(user))
+# funfirst()

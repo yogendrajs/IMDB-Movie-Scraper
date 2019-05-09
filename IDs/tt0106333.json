@@ -1,1 +1,21 @@
-{"Name": "Baazigar", "Director": ["Abbas Alibhai Burmawalla", "Mastan Alibhai Burmawalla"], "Country": "India", "Language": ["Hindi"], "Runtime": "175 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTc3OTE1MDAxNV5BMl5BanBnXkFtZTgwNjM1NDk5NTE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg", "Bio": "A young man with a vendetta against a business tycoon seduces and kills his eldest daughter and then proceeds to his younger daughter but she begins to suspect her new lover's ulterior motive.", "Genres": [" Crime", " Drama", " Musical", " Romance", " Thriller"]}
+{
+    "Bio": "A young man with a vendetta against a business tycoon seduces and kills his eldest daughter and then proceeds to his younger daughter but she begins to suspect her new lover's ulterior motive.",
+    "Country": "India",
+    "Director": [
+        "Abbas Alibhai Burmawalla",
+        "Mastan Alibhai Burmawalla"
+    ],
+    "Genres": [
+        " Crime",
+        " Drama",
+        " Musical",
+        " Romance",
+        " Thriller"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Baazigar",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTc3OTE1MDAxNV5BMl5BanBnXkFtZTgwNjM1NDk5NTE@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+    "Runtime": "175 min"
+}

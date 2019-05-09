@@ -1,1 +1,18 @@
-{"Name": "My Name Is Khan", "Director": ["Karan Johar"], "Country": "India", "Language": ["Hindi", "Urdu", "English"], "Runtime": "165 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTUyMTA4NDYzMV5BMl5BanBnXkFtZTcwMjk5MzcxMw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg", "Bio": "An Indian Muslim man with Asperger's syndrome takes a challenge to speak to the President of the United States seriously and embarks on a cross-country journey.", "Genres": [" Drama"]}
+{
+    "Bio": "An Indian Muslim man with Asperger's syndrome takes a challenge to speak to the President of the United States seriously and embarks on a cross-country journey.",
+    "Country": "India",
+    "Director": [
+        "Karan Johar"
+    ],
+    "Genres": [
+        " Drama"
+    ],
+    "Language": [
+        "Hindi",
+        "Urdu",
+        "English"
+    ],
+    "Name": "My Name Is Khan",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BMTUyMTA4NDYzMV5BMl5BanBnXkFtZTcwMjk5MzcxMw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg",
+    "Runtime": "165 min"
+}

@@ -1,1 +1,20 @@
-{"Name": "Lakshya", "Director": ["Farhan Akhtar"], "Country": "India", "Language": ["Hindi", "English"], "Runtime": "186 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BY2Y0NjY5ZTctZWMzNC00MDQ4LTkyMWUtOGZkMzk4NWNhYWI5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg", "Bio": "An aimless, jobless, irresponsible grown man joins the army and matures into a battlefield hero.", "Genres": [" Action", " Drama", " Romance", " War"]}
+{
+    "Bio": "An aimless, jobless, irresponsible grown man joins the army and matures into a battlefield hero.",
+    "Country": "India",
+    "Director": [
+        "Farhan Akhtar"
+    ],
+    "Genres": [
+        " Action",
+        " Drama",
+        " Romance",
+        " War"
+    ],
+    "Language": [
+        "Hindi",
+        "English"
+    ],
+    "Name": "Lakshya",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BY2Y0NjY5ZTctZWMzNC00MDQ4LTkyMWUtOGZkMzk4NWNhYWI5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL__QL50.jpg",
+    "Runtime": "186 min"
+}

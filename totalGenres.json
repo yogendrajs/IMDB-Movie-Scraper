@@ -1,1 +1,20 @@
-{" Drama": 209, " Crime": 67, " Thriller": 84, " Action": 88, " War": 7, " Adventure": 7, " Comedy": 87, " Romance": 75, " History": 9, " Biography": 13, " Sport": 12, " Family": 14, " Horror": 6, " Musical": 28, " Mystery": 20, " Fantasy": 9, " Sci-Fi": 4, " Music": 4}
+{
+    " Action": 91,
+    " Adventure": 7,
+    " Biography": 12,
+    " Comedy": 79,
+    " Crime": 62,
+    " Drama": 208,
+    " Family": 15,
+    " Fantasy": 7,
+    " History": 9,
+    " Horror": 5,
+    " Music": 5,
+    " Musical": 30,
+    " Mystery": 20,
+    " Romance": 72,
+    " Sci-Fi": 3,
+    " Sport": 11,
+    " Thriller": 82,
+    " War": 9
+}

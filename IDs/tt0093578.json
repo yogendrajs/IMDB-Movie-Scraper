@@ -1,1 +1,21 @@
-{"Name": "Mr. India", "Director": ["Shekhar Kapur"], "Country": "India", "Language": ["Hindi"], "Runtime": "179 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BNjJjNjEyOTEtNDhhZi00MDM1LWExMTYtZmNjNDE1OTQ2OTE0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR9,0,182,268_AL__QL50.jpg", "Bio": "A poor but big-hearted man takes orphans into his home. After discovering his scientist father's invisibility device, he rises to the occasion and fights to save his children and all of India from the clutches of a megalomaniac.", "Genres": [" Action", " Comedy", " Drama", " Family", " Musical", " Sci-Fi"]}
+{
+    "Bio": "A poor but big-hearted man takes orphans into his home. After discovering his scientist father's invisibility device, he rises to the occasion and fights to save his children and all of India from the clutches of a megalomaniac.",
+    "Country": "India",
+    "Director": [
+        "Shekhar Kapur"
+    ],
+    "Genres": [
+        " Action",
+        " Comedy",
+        " Drama",
+        " Family",
+        " Musical",
+        " Sci-Fi"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Mr. India",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNjJjNjEyOTEtNDhhZi00MDM1LWExMTYtZmNjNDE1OTQ2OTE0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR9,0,182,268_AL__QL50.jpg",
+    "Runtime": "179 min"
+}

@@ -1,1 +1,16 @@
-{"Name": "Udaan", "Director": ["Vikramaditya Motwane"], "Country": "India", "Language": ["Hindi"], "Runtime": "134 min", "Poster URL": "https://m.media-amazon.com/images/M/MV5BNzgxMzExMzUwNV5BMl5BanBnXkFtZTcwMDc2MjUwNA@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg", "Bio": "Expelled from his school, a 16-year old boy returns home to his abusive and oppressive father.", "Genres": [" Drama"]}
+{
+    "Bio": "Expelled from his school, a 16-year old boy returns home to his abusive and oppressive father.",
+    "Country": "India",
+    "Director": [
+        "Vikramaditya Motwane"
+    ],
+    "Genres": [
+        " Drama"
+    ],
+    "Language": [
+        "Hindi"
+    ],
+    "Name": "Udaan",
+    "Poster URL": "https://m.media-amazon.com/images/M/MV5BNzgxMzExMzUwNV5BMl5BanBnXkFtZTcwMDc2MjUwNA@@._V1_UY268_CR1,0,182,268_AL__QL50.jpg",
+    "Runtime": "134 min"
+}
